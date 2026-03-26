@@ -90,3 +90,5 @@ HR and recruitment tools
 
 ---
 
+🧠 Author
+Srushti Agrawal
