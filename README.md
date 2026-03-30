@@ -27,19 +27,19 @@ An AI-powered system that analyzes resumes and matches them with job description
 
 ---
 
-## 📊 Workflow
+## 📊 Workflow  
 
-1. Dataset loading and exploration  
-2. Text preprocessing  
-3. Feature extraction (TF-IDF)  
-4. Training multiple classification models  
+1. Dataset loading and exploration    
+2. Text preprocessing    
+3. Feature extraction (TF-IDF)    
+4. Training multiple classification models    
 5. Model evaluation and comparison  
-6. Best model selection  
-7. Resume–job matching and GUI implementation  
+6. Best model selection    
+7. Resume–job matching and GUI implementation    
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo  
 
 Watch the working demo here:  
 👉 https://drive.google.com/drive/folders/1pzBE_ov7-1yhjyoKPootg0wse3JAeDPw?usp=sharing
@@ -71,7 +71,7 @@ http://localhost:8501
 ```
 ---
 
-📂 Project Structure
+📂 Project Structure  
 AI-Based-Resume-Skill-Extraction-Job-Matching-System/
 │
 ├── app.py
@@ -82,13 +82,13 @@ AI-Based-Resume-Skill-Extraction-Job-Matching-System/
 
 ---
 
-🎯 Use Cases
-Resume screening automation
-Job recommendation systems
-Skill gap analysis
-HR and recruitment tools
+🎯 Use Cases  
+Resume screening automation    
+Job recommendation systems  
+Skill gap analysis  
+HR and recruitment tools  
 
 ---
 
-🧠 Authors
+🧠 Authors  
 Srushti Agrawal & Shrishti Lal
